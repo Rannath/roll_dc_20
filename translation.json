@@ -1,0 +1,20 @@
+{
+  "public-u":"Public",
+	"to-gm-u":"To GM",
+	"actions-u":"Actions",
+	"core-u":"Core",
+	"feats-u":"Feats",
+	"spells-u":"Spells",
+	"inventory-u":"Inventory",
+	"description-u":"Description",
+	"notes-u":"Notes",
+	"strength-u":"Strength",
+	"abl_dex":"Dexterity",
+	"abl_con":"Constitution",
+	"abl_int":"Intelligence",
+	"abl_wis":"Wisdom",
+	"abl_cha":"Charisma",
+	"add-char-to-templates:-u":"Add Character names to templates:",
+	"on":"On",
+	"off":"Off"
+}

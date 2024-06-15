@@ -1,0 +1,9 @@
+.sheet-darkmode .sheetform {
+  background: rgb(31, 31, 31);
+  color: rgb(179, 179, 179);
+  background-image: dark_bg.png;
+}
+
+.sheetform {
+  background-image: light_bg.png;
+}
